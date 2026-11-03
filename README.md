@@ -56,8 +56,8 @@ I'm the developer behind **Chiefu Apps**. I build fast, privacy-friendly web and
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chiefu-apps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiefu-apps&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chiefu-apps&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chiefu-apps&theme=tokyonight" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Chiefu-apps&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
