@@ -41,8 +41,7 @@ I'm the developer behind **Chiefu Apps**. I build fast, privacy-friendly web and
 
 **Reverse engineering**<br/>
 <img src="https://img.shields.io/badge/Ghidra-8B0000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Frida-EF6456?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/JADX-4B8BBE?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/x64dbg-2D2D2D?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
