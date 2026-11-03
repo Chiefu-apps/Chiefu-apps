@@ -17,11 +17,11 @@
 
 ### 🧑‍💻 About me
 
-- 🌐 I build **web apps** and 📱 **mobile apps** under the **Chiefu Apps** name
-- 🔍 I enjoy **reverse engineering**: digging into binaries, APIs and app internals to understand how things really work
-- 🔒 I care about privacy: see my [privacy policies](https://github.com/Chiefu-apps/privacy)
-- 🌱 Always learning and always shipping
-- 📫 Reach me: _add your email or website here_
+I'm the developer behind **Chiefu Apps**. I build fast, privacy-friendly web and mobile apps, and I like taking software apart to see how it really works.
+
+| 🌐 Web | 📱 Mobile | 🔍 Reverse engineering |
+| :-- | :-- | :-- |
+| Clean, fast web apps from frontend to backend | Android and cross-platform apps | Exploring APIs, apps and binaries from the inside |
 
 ### 🛠️ Tech stack
 
